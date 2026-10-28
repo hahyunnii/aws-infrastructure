@@ -6,21 +6,7 @@ AWS 기반 인프라 구축 및 자동화, 고가용성 아키텍처, 성능 테
 
 ## Featured Projects
 
-### 1. WordPress High Availability — Final Project
-
-**AWS 기반 웹 서비스 인프라 구축 및 고가용성(HA) 아키텍처 구현**
-
-[GitHub Repository](https://github.com/hahyunnii/final-project-wordpress-ha)
-
-AWS 인프라 구성 요소를 활용하여 WordPress 서비스의 고가용성 환경을 구축한 프로젝트입니다.
-
-**Technologies**
-- **AWS:** EC2, VPC, Application Load Balancer (ALB), RDS, S3
-- **Infrastructure as Code:** Terraform
-- **Architecture:** Cloud Infrastructure, High Availability, Load Balancing
-- **Service:** WordPress
-
-### 2. Approval Load Test & Monitoring
+### 1. Approval Load Test & Monitoring
 
 **AWS 기반 웹 애플리케이션 성능 테스트 및 통합 모니터링 체계 구축**
 
@@ -42,6 +28,20 @@ AWS 인프라 구성 요소를 활용하여 WordPress 서비스의 고가용성 
 - MySQL 인덱스 최적화를 통해 단건 조회 시간 **404ms → 10ms**로 단축
 - 800명 부하 테스트에서 최대 약 **3,600 requests/sec** 처리량 측정
 - 앱 서버 3대 구성 및 서버 장애 상황에서 장애 탐지와 CloudWatch 알람 전달 시간 검증
+
+### 2. WordPress High Availability — Final Project
+
+**AWS 기반 웹 서비스 인프라 구축 및 고가용성(HA) 아키텍처 구현**
+
+[GitHub Repository](https://github.com/hahyunnii/final-project-wordpress-ha)
+
+AWS 인프라 구성 요소를 활용하여 WordPress 서비스의 고가용성 환경을 구축한 프로젝트입니다.
+
+**Technologies**
+- **AWS:** EC2, VPC, Application Load Balancer (ALB), RDS, S3
+- **Infrastructure as Code:** Terraform
+- **Architecture:** Cloud Infrastructure, High Availability, Load Balancing
+- **Service:** WordPress
 
 ## Additional Projects
 
